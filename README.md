@@ -10,7 +10,7 @@ I'm a passionate and experienced senior software engineer with a deep love for b
 
 ## Experience
 
-🚀 **Senior Software Engineer** at Tietoevry India Pvt Ltd | *Jan 2018 - Present*
+🚀 **Senior Software Engineer** at Colan Infotech Pvt Ltd | * SEP 2018 - Present*
 - Leading the development of React-based web applications, achieving 30% faster load times and a 20% increase in user engagement.
 - Mentoring junior developers and fostering a collaborative and innovative team culture.
 - Collaborating closely with product managers to translate requirements into elegant, efficient code.
