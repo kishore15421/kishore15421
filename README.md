@@ -2,7 +2,7 @@
 
 👨‍💻 Senior Software Engineer | 🚀 React.js Enthusiast | 🌟 Open Source Contributor
 
-📧 Contact: kishore15421@gmail.com | 🌐 Portfolio:  | 🐦 Twitter:  | 📷 Instagram: 
+📧 Contact: kishore15421@gmail.com | 🌐 Portfolio: https://kishorecrk.netlify.app/ | 🐦 LinkedIn: https://www.linkedin.com/in/kishore-cr-478b67157/ | 📷 Instagram: 
 
 ## About Me
 
