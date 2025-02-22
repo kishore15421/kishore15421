@@ -15,11 +15,6 @@ I'm a passionate and experienced senior software engineer with a deep love for b
 - Mentoring junior developers and fostering a collaborative and innovative team culture.
 - Collaborating closely with product managers to translate requirements into elegant, efficient code.
 
-💼 **Front-end Developer** at Developer on Rent |
-- Built and maintained multiple React applications, contributing to a 40% reduction in bug reports.
-- Played a key role in redesigning the user interface for a flagship product, resulting in a 25% boost in user satisfaction.
-- Worked closely with designers to ensure pixel-perfect implementation of UI/UX designs.
-
 ## Skills
 
 - **Languages:** JavaScript, TypeScript
