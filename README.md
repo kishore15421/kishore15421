@@ -33,7 +33,7 @@ I am a firm believer in the power of open source software and actively contribut
 
 ## Education
 
-🎓 **Bachelor of Technology in Electronics and communication Engineering** | *APR 2017*
+🎓 **Bachelor of Technology in Electronics and communication Engineering** | *APR 2018*
 *JNTU* | *Ananthapur, Andhra Pradesh*
 
 ## Interests
