@@ -18,12 +18,12 @@ I'm a passionate and experienced senior software engineer with a deep love for b
 ## Skills
 
 - **Languages:** JavaScript, TypeScript
-- **Front-end:** React.js, Redux, Vue.js
-- **UI Frameworks:** Material-UI, Ant Design, Bootstrap
+- **Front-end:** React.js, Redux, Next.js
+- **UI Frameworks:** Material-UI, Ant Design, Bootstrap, Tailwind
 - **Tooling:** Webpack, Babel, ESLint, Jest
 - **Version Control:** Git, GitHub
 - **DevOps:** CI/CD, Docker
-- **Database:** SQL, MongoDB
+- **Database:** Firebase, MongoDB
 
 ## Open Source Contributions
 
